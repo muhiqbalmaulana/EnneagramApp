@@ -1,0 +1,10 @@
+.w3-btn-block {
+    overflow: visible;
+    white-space: normal;
+}
+
+img {
+    margin: auto;
+    max-width: 100%;
+    display: block;
+}
